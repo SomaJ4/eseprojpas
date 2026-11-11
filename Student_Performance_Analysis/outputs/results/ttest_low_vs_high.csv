@@ -1,0 +1,9 @@
+,Value
+low_n,141
+low_mean,19.9078
+high_n,58
+high_mean,18.0397
+t_statistic,1.3392
+p_value,0.183787
+alpha,0.05
+decision,Fail to Reject H0

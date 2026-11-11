@@ -1,0 +1,13 @@
+,Value
+low_n,141
+low_mean,19.9078
+mod_n,101
+mod_mean,21.1624
+high_n,58
+high_mean,18.0397
+F_statistic,2.6616
+p_value,0.0715
+levene_stat,2.4612
+levene_p,0.087074
+alpha,0.05
+decision,Fail to Reject H0

@@ -1,0 +1,10 @@
+,Value
+n,300.0
+mean,19.969
+std_dev,8.2722
+df,299.0
+t_critical,1.9679
+std_error,0.4776
+margin_of_error,0.9399
+ci_lower_95,19.0291
+ci_upper_95,20.9089
